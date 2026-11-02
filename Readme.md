@@ -3,7 +3,10 @@
 Projeto desenvolvido para consolidar o uso prático de ferramentas do GitHub em cenários do dia a dia profissional.
 
 ## 🛠️ Stack utilizada
-- Funções do Git Hub
+* **Git:** Sistema de controle de versão distribuído.
+* **Git Bash:** Interface de linha de comando para execução de comandos Git no Windows.
+* **GitHub:** Plataforma de hospedagem de código e colaboração.
+* **Markdown:** Linguagem de marcação utilizada para a estruturação e documentação do README.
 
 ## 📂 Fonte dos dados
 Arquivos internos
@@ -16,7 +19,7 @@ Descreva ou desenhe o fluxo: ingestão → transformação → camada final → 
 - Trade-offs considerados
 
 ## ▶️ Como rodar o projeto
-Passos objetivos, com comandos, pra alguém reproduzir localmente.
+Passos objetivos, com comandos, pra alguém reproduzir localment
 
 ## 📈 Resultados
 O que esse projeto entrega ou demonstra. Prints do dashboard, se houver.
